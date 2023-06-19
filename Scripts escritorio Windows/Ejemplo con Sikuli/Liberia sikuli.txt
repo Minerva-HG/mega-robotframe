@@ -1,0 +1,8 @@
+*Curso
+https://www.youtube.com/watch?v=9pZ3l0jPF1k&list=PLiI5jxH3M16oWZQbANnIwm-W7sxvewRta
+
+Documentacion de la liberias
+https://rainmanwy.github.io/robotframework-SikuliLibrary/doc/SikuliLibrary.html
+
+GIT HUB
+https://github.com/rainmanwy/robotframework-SikuliLibrary

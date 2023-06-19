@@ -1,0 +1,7 @@
+App para saber el nombre y ubicacion de los elementos
+https://learn.microsoft.com/en-us/windows/win32/winauto/inspect-objects
+
+
+Descarga y documentacion 
+https://learn.microsoft.com/en-us/windows/win32/winauto/inspect-objects
+https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/

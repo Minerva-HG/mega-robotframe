@@ -1,0 +1,8 @@
+*Ejemplo
+https://www.youtube.com/watch?v=fBGIr5720gg
+*FORO
+https://forum.robotframework.org/t/automating-desktop-application-by-using-robot-framework/421/3
+
+*GIT HUB
+https://github.com/Omenia/robotframework-whitelibrary
+
